@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IAmPoor</string>
+
+    <array name="arrayint">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"8"</item>
+        <item>"8"</item>
+        <item>"8"</item>
+    </array>
+</resources>
